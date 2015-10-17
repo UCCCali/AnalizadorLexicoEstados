@@ -1,0 +1,6 @@
+C:\Users\JuanGuillermo\Desktop\AnalizadorLexicosEstados\AnalizadorLexicosEstados\bin\Debug\AnalizadorLexicosEstados.exe.config
+C:\Users\JuanGuillermo\Desktop\AnalizadorLexicosEstados\AnalizadorLexicosEstados\obj\Debug\AnalizadorLexicosEstados.csprojResolveAssemblyReference.cache
+C:\Users\JuanGuillermo\Desktop\AnalizadorLexicosEstados\AnalizadorLexicosEstados\bin\Debug\AnalizadorLexicosEstados.exe
+C:\Users\JuanGuillermo\Desktop\AnalizadorLexicosEstados\AnalizadorLexicosEstados\bin\Debug\AnalizadorLexicosEstados.pdb
+C:\Users\JuanGuillermo\Desktop\AnalizadorLexicosEstados\AnalizadorLexicosEstados\obj\Debug\AnalizadorLexicosEstados.exe
+C:\Users\JuanGuillermo\Desktop\AnalizadorLexicosEstados\AnalizadorLexicosEstados\obj\Debug\AnalizadorLexicosEstados.pdb
